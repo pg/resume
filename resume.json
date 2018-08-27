@@ -1,0 +1,247 @@
+{
+  "basics": {
+    "name": "Peter Gebhard",
+    "label": "Senior Software Engineer",
+    "picture": "",
+    "email": "peter@petergebhard.com",
+    "website": "https://petergebhard.com/",
+    "summary": "",
+    "location": {
+      "city": "Saint Louis",
+      "countryCode": "US",
+      "region": "Missouri"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "pgebhard",
+        "url": "https://www.github.com/pgebhard/"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "pgebhard",
+        "url": "https://www.linkedin.com/u/pgebhard/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Label Insight",
+      "position": "Senior Software Engineer, Team Lead",
+      "website": "https://labelinsight.com/",
+      "startDate": "2017-06-01",
+      "endDate": "2018-08-01",
+      "summary": "",
+      "highlights": [
+        "Led Agile team of four engineers responsible for architecture, development, scaling, and maintenance of an event-driven data capture platform (Spring Boot and React) used 24/7 by internal and external customers",
+        "Developed microservice architectures using AWS, including ECS, EC2, Lambda, S3, SQS, SNS, and RDS",
+        "Mentored engineers and trained new hires on our codebase and system architecture",
+        "Member of the Architecture Review Board and DevOps working group"
+      ]
+    },
+    {
+      "company": "University of Pennsylvania, PRECISE Center",
+      "position": "Senior Application Developer",
+      "website": "https://precise.seas.upenn.edu/",
+      "startDate": "2012-08-01",
+      "endDate": "2017-04-01",
+      "summary": "",
+      "highlights": [
+        "Supported five postdoctoral fellows and over a dozen graduate students with software solutions on various projects",
+        "Developed Java and Python GUIs for designing and controlling a ROS-based robotic system",
+        "Built parser and code generator for a novel runtime monitor specification language",
+        "Created tools for calculating reputation in a crowdsourced design competition using a novel trust algorithm",
+        "Administered multiple Linux lab servers and established lab-wide version control system and practices"
+      ]
+    },
+    {
+      "company": "Animotion, LLC",
+      "position": "Co-founder",
+      "startDate": "2014-05-01",
+      "endDate": "2017-04-01",
+      "summary": "",
+      "highlights": [
+        "Invented wearable device to monitor musculoskeletal joint function for use in research and clinical settings",
+        "Filed utility patent on system design",
+        "Won first place and a $50,000 investment at Penn Center for Innovation’s app development competition",
+        "Represented The Wharton School at Silicon Valley Bank’s SVB Trek"
+      ]
+    },
+    {
+      "company": "Lockheed Martin Information Systems & Global Solutions",
+      "position": "Software Engineer",
+      "website": "https://www.lockheedmartin.com",
+      "startDate": "2009-03-01",
+      "endDate": "2012-08-01",
+      "summary": "",
+      "highlights": [
+        "Developed Java EE software for the FBI’s Next Generation Identification biometrics system",
+        "Created Java web application for managing cybersecurity tools through a dynamic web interface"
+      ]
+    },
+    {
+      "company": "Lockheed Martin",
+      "position": "Engineering Leadership Development Program",
+      "startDate": "2007-07-01",
+      "endDate": "2010-06-01",
+      "summary": "",
+      "highlights": [
+        "Gained diverse technical experience through assignments across multiple offices",
+        "Completed a master’s degree over the course of program",
+        "Volunteered at local schools and community centers, taught engineering skills to young students"
+      ]
+    },
+    {
+      "company": "Lockheed Martin Missiles and Fire Control",
+      "position": "Software Engineer",
+      "startDate": "2007-07-01",
+      "endDate": "2009-03-01",
+      "summary": "",
+      "highlights": [
+        "Developed embedded C software on VxWorks RTOS for Apache helicopter’s Arrowhead sensor",
+        "Created C# classes and unit tests for a guidance image-processing component"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "FIRST",
+      "position": "Judge",
+      "website": "https://www.firstinspires.org/robotics/frc",
+      "startDate": "2015-04-01",
+      "summary": "The FIRST Robotics Competition is an international high school robotics competition that gives students real-world engineering experience"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Pennsylvania",
+      "startDate": "2014-08-01",
+      "endDate": "2017-05-01",
+      "area": "Embedded Systems",
+      "studyType": "Master of Science in Engineering,"
+    },
+    {
+      "institution": "University of Illinois at Urbana-Champaign",
+      "startDate": "2008-08-01",
+      "endDate": "2010-05-01",
+      "area": "Computer Science",
+      "studyType": "Master of"
+    },
+    {
+      "institution": "Duke University",
+      "startDate": "2003-08-01",
+      "endDate": "2007-05-01",
+      "area": "ECE & Computer Science",
+      "studyType": "Bachelor of Science in Engineering,"
+    }
+  ],
+  "awards": [],
+  "publications-disabled": [
+    {
+      "name": "Qu, F., Gebhard, P. Systems and Methods for Joint Activity Monitoring. US Patent 20170231533 A1.",
+      "publisher": "United States Patent and Trademark Office",
+      "releaseDate": "2015-08-21"
+    },
+    {
+      "name": "Qu, F., Stoeckl, B., Gebhard, P., Hullfish, T., Baxter, J., Mauck, R. A Wearable Magnet-Based System to Assess Activity and Joint Flexion in Humans and Large Animals.",
+      "publisher": "Annals of Biomedical Engineering"
+    },
+    {
+      "name": "Hullfish, T., Qu, F., Stoeckl, B., Gebhard, P., Mauck, R., Baxter, J. Measuring Clinically Relevant Knee Motion With A Self-Calibrated Wearable Sensor.",
+      "publisher": "In Review"
+    },
+    {
+      "name": "Bezzo, N., Gebhard, P., Lee, I., Piccoli, M., Kumar, V. and Yim, M. Rapid co-design of electro-mechanical specifications for robotic systems. ASME 2015 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference (pp. V009T07A009-V009T07A009).",
+      "publisher": "American Society of Mechanical Engineers",
+      "releaseDate": "2015-08-21"
+    },
+    {
+      "name": "Bezzo, N., Park, J., King, A., Gebhard, P., Ivanov, R. and Lee, I. Demo Abstract: ROSLab---A Modular Programming Environment for Robotic Applications. ICCPS'14: ACM/IEEE 5th International Conference on Cyber-Physical Systems (with CPS Week 2014) (pp. 214-214).",
+      "publisher": "IEEE Computer Society",
+      "releaseDate": "2014-04-01"
+    },
+    {
+      "name": "Chang, J., Gebhard, P., Haeberlen, A., Ives, Z., Lee, I., Sokolsky, O. and Venkatasubramanian, K.K. TrustForge: Flexible access control for collaborative crowd-sourced environment. Privacy, Security and Trust (PST), 2013 Eleventh Annual International Conference on (pp. 291-300).",
+      "publisher": "IEEE",
+      "releaseDate": "2013-07-01"
+    },
+    {
+      "name": "Mehta, A., Bezzo, N., Gebhard, P., An, B., Kumar, V., Lee, I. and Rus, D. A design environment for the rapid specification and fabrication of printable robots. Experimental Robotics (pp. 435-449).",
+      "publisher": "Springer International Publishing",
+      "releaseDate": "2016-08-01"
+    },
+    {
+      "name": "Zhang, T., Gebhard, P. and Sokolsky, O. SMEDL: Combining Synchronous and Asynchronous Monitoring. International Conference on Runtime Verification (pp. 482-490).",
+      "publisher": "Springer International Publishing",
+      "releaseDate": "2016-09-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Languages",
+      "level": "",
+      "keywords": [
+        "Java",
+        "Spring Framework",
+        "Python",
+        "C",
+        "C#",
+        "HTML",
+        "Arduino/Processing"
+      ]
+    },
+    {
+      "name": "Amazon Web Services",
+      "level": "",
+      "keywords": [
+        "ECS",
+        "EC2",
+        "S3",
+        "SQS",
+        "SNS",
+        "Lambda",
+        "RDS",
+        "Kinesis",
+        "CloudWatch"
+      ]
+    },
+    {
+      "name": "Tools",
+      "level": "",
+      "keywords": [
+        "Docker",
+        "Terraform",
+        "Git",
+        "Maven",
+        "CircleCI",
+        "Looker",
+        "Kibana",
+        "Elasticsearch",
+        "Robot Operating System (ROS)",
+        "IntelliJ IDEA",
+        "Eclipse"
+      ]
+    },
+    {
+      "name": "Databases",
+      "level": "",
+      "keywords": [
+        "MySQL",
+        "MongoDB",
+        "DynamoDB"
+      ]
+    },
+    {
+      "name": "Operating Systems",
+      "level": "",
+      "keywords": [
+        "macOS",
+        "GNU/Linux",
+        "Windows"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": []
+}
